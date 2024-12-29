@@ -8,6 +8,7 @@ int silnia(int n){
 	else return n*silnia(n - 1); 
 }
 
+/*Dodanie menu*/
 int main() {
     int a, b;
     cout << "Podaj liczbe calkowita ";
