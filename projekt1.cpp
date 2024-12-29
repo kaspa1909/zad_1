@@ -9,7 +9,7 @@ int czy_pierwsza(int a){
 	}
 	return test;
 }
-
+/* Dodano menu */
 int main() {
     int a, b;
     cout << "Podaj liczbe calkowita ";
